@@ -1,0 +1,10 @@
+/Users/k2rth1k/Spring-Boot/quick-trade/src/main/java/com/example/quicktrade/entity/User.java
+/Users/k2rth1k/Spring-Boot/quick-trade/src/main/java/com/example/quicktrade/entity/ErrorMessage.java
+/Users/k2rth1k/Spring-Boot/quick-trade/src/main/java/com/example/quicktrade/errors/ErrorMessages.java
+/Users/k2rth1k/Spring-Boot/quick-trade/src/main/java/com/example/quicktrade/controllers/UserController.java
+/Users/k2rth1k/Spring-Boot/quick-trade/src/main/java/com/example/quicktrade/errors/UserAlreadyExistsException.java
+/Users/k2rth1k/Spring-Boot/quick-trade/src/main/java/com/example/quicktrade/QuickTradeApplication.java
+/Users/k2rth1k/Spring-Boot/quick-trade/src/main/java/com/example/quicktrade/service/UserServiceImpl.java
+/Users/k2rth1k/Spring-Boot/quick-trade/src/main/java/com/example/quicktrade/repository/UserRepository.java
+/Users/k2rth1k/Spring-Boot/quick-trade/src/main/java/com/example/quicktrade/errors/RestResponseEntityExceptionHandler.java
+/Users/k2rth1k/Spring-Boot/quick-trade/src/main/java/com/example/quicktrade/service/UserService.java
